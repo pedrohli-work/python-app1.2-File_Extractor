@@ -1,0 +1,31 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directory
+venv/
+env/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Any other generated files
+*.swp
+*.bak
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Exclude any other files that shouldn't be tracked by git, such as API keys or sensitive data
+config.json
